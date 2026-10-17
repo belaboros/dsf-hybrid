@@ -1,6 +1,6 @@
-# Dark / grey Software Factory
+# Dark / gray Software Factory
 
-The goal of these repos is to raise the level of autonomy and automation in software development and to take laborious work off the human: agents interview, specify, design, code, test, review and maintain, while the human sets the vision and makes the decisions that matter. It is a grey factory, not yet a fully dark one: humans still review architecture and approve key changes, and the factory is meant to need fewer of those reviews over time.
+The goal of these repos is to raise the level of autonomy and automation in software development and to take laborious work off the human: agents interview, specify, design, code, test, review and maintain, while the human sets the vision and makes the decisions that matter. It is a gray factory, not yet a fully dark one: humans still review architecture and approve key changes, and the factory is meant to need fewer of those reviews over time.
 
 **dsf-hybrid** is the factory built on Matt Pocock's skills for requirements and Superpowers for execution: each pack where it is strongest. The recommended starting point.
 
